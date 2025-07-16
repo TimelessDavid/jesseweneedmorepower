@@ -1,1 +1,1 @@
-# jesseweneedmorepower
+# power-electronics-2025
