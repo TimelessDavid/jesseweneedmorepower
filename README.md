@@ -1,6 +1,6 @@
 # power-electronics-2025evetvvv
 Power electronics course
-## Estudents: 
+## Students: 
 Students: David Lujan, Wilmer Jimenez, Joiner Arrieta
 ## Professor: 
 Miguel Ortiz
