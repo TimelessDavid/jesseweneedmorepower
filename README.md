@@ -27,9 +27,6 @@ Estudiantes:
 - LTSpice
 - Markdown
 - Python 
-   $$
-    \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
-    $$
 
 ## Temáticas de consulta para el informe:
 - Características de los diodos de potencia
