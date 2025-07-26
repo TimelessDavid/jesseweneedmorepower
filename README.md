@@ -28,12 +28,3 @@ Estudiantes:
 - Markdown
 - Python 
 
-## Temáticas de consulta para el informe:
-- Características de los diodos de potencia
-- Tipos de diodos (propósito general, recuperación rápida y Schottky)
-- Freewheeling
-- Rectificadores con diodos: monofásicos (onda completa) y trifásicos
-- Parámetros de desempeño
-- Diseño de un circuito rectificador
-
-Simulaciones: rectificadores monofásicos y trifásicos
