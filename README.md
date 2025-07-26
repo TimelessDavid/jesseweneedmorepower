@@ -1,29 +1,36 @@
-# Electrónica de Potencia
+# Power Electronics Laboratory 2025
 
-## Programa de Ingeniería Electrónica
-## Universidad Pontificia Bolivariana - Seccional Montería
-## 2025-20
+## Universidad Pontificia Bolivariana - Montería
+### Power Electronics Fundamentals
 
-Docente: MSc Eng. Miguel Ortiz (miguel.ortizp@upb.edu.co)
+This repository hosts the projects and reports for the Power Electronics course, focusing on the analysis, simulation, and design of power converter circuits.
 
-Estudiantes:
-- David Lujan (david.lujan@upb.edu.co)
-- Wilmer Jimenez (wilmer.jimenez@upb.edu.co)
-- Joiner Arrieta (joiner.arrieta@upb.edu.co)
+---
 
-## Contenido
+## Content Structure
 
-| Módulo | Tema                                      | Enlace                                     |
-| ------ | ----------------------------------------- | ------------------------------------------ |
-| 1      | Fundamentos y Diodos de Potencia          | [Ver Guía](./guia_1_fundamentos_diodos)    |
-| 2      | Rectificadores No Controlados             | Coming soon...                             |
-| 3      | Transistores de Potencia                  | Coming soon...                             |
-| 4      | Convertidores DC-DC                       | Coming soon...                             |
-| 5      | Tiristores y Control de Potencia          | Coming soon...                             |
-| 6      | Proyecto Final – Inversor para Sistema PV | Coming soon...                             |
+| Module | Topic                      | Link                                     |
+| :----: | :------------------------- | :--------------------------------------- |
+|   1    | Power Diodes & Rectifiers  | [Module 1](./Module%201%20Diodes/README.md) |
+|   2    | Uncontrolled Rectifiers    | Coming soon...                             |
+|   3    | Power Transistors          | Coming soon...                             |
+|   4    | DC-DC Converters           | Coming soon...                             |
+|   5    | Thyristors & Power Control | Coming soon...                             |
+|   6    | Final Project - PV Inverter| Coming soon...                             |
 
-## Herramientas utilizadas
+---
 
+### Core Topics - Module 1
+
+- **Diode Physics:** Understanding the behavior of power diodes.
+- **Diode Types:** A look into general-purpose, fast-recovery, and Schottky diodes.
+- **Freewheeling Action:** Its role in inductive circuits.
+- **Rectifier Topologies:** Single-phase and three-phase bridge rectifiers.
+- **Performance Analysis:** Key metrics for evaluating rectifier efficiency.
+- **Design Principles:** Guidelines for building a functional rectifier.
+- **Simulations:** Validating designs using circuit simulation tools.
+
+### Tools Used
 - LTSpice
 - Markdown
 - Python 
