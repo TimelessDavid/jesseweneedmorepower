@@ -1,37 +1,34 @@
 # Power Electronics Laboratory 2025
 
 ## Universidad Pontificia Bolivariana - Montería
-### Power Electronics Fundamentals
 
-This repository hosts the projects and reports for the Power Electronics course, focusing on the analysis, simulation, and design of power converter circuits.
-
----
-
-## Content Structure
-
-| Module | Topic                      | Link                                     |
-| :----: | :------------------------- | :--------------------------------------- |
-|   1    | Power Diodes & Rectifiers  | [Module 1](./Module%201%20Diodes/README.md) |
-|   2    | Uncontrolled Rectifiers    | Coming soon...                             |
-|   3    | Power Transistors          | Coming soon...                             |
-|   4    | DC-DC Converters           | Coming soon...                             |
-|   5    | Thyristors & Power Control | Coming soon...                             |
-|   6    | Final Project - PV Inverter| Coming soon...                             |
+This repository contains laboratory exercises, theoretical foundations, and practical implementations for the Power Electronics course. The content focuses on semiconductor devices, power conversion circuits, and their real-world applications.
 
 ---
 
-### Core Topics - Module 1
+## Course Structure
 
-- **Diode Physics:** Understanding the behavior of power diodes.
-- **Diode Types:** A look into general-purpose, fast-recovery, and Schottky diodes.
-- **Freewheeling Action:** Its role in inductive circuits.
-- **Rectifier Topologies:** Single-phase and three-phase bridge rectifiers.
-- **Performance Analysis:** Key metrics for evaluating rectifier efficiency.
-- **Design Principles:** Guidelines for building a functional rectifier.
-- **Simulations:** Validating designs using circuit simulation tools.
+| Module | Core Topic                 | Status      | Link                                     |
+| :----: | :------------------------- | :---------- | :--------------------------------------- |
+|   1    | Power Diodes & Rectifiers  | Active      | [Module 1](./Module%201%20Diodes/README.md) |
+|   2    | Uncontrolled Rectifiers    | Upcoming    | -                                        |
+|   3    | Power Transistors          | Upcoming    | -                                        |
+|   4    | DC-DC Converters           | Upcoming    | -                                        |
+|   5    | Thyristors & Power Control | Upcoming    | -                                        |
+|   6    | Final Project: PV Inverter | Upcoming    | -                                        |
 
-### Tools Used
-- LTSpice
-- Markdown
-- Python 
+---
+
+### Module 1 Overview
+
+This module covers fundamental concepts of power diodes and rectification circuits:
+- **Diode Physics:** Semiconductor physics underlying power diode operation
+- **Diode Classifications:** General-purpose, fast-recovery, and Schottky diodes
+- **Freewheeling Applications:** Protection in inductive circuits
+- **Rectifier Topologies:** Single-phase and three-phase configurations
+
+### Tools and Software
+- **LTSpice:** Circuit simulation and analysis
+- **Markdown:** Technical documentation
+- **Python:** Data processing and analysis 
 
